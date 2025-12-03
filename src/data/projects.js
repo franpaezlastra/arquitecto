@@ -1,16 +1,16 @@
-import principal from '../assets/img/principal.png';
-import torreUrbana from '../assets/img/Torre Urbana MX/torreUrbanaMExico.png';
-import torreUrbanaPortada from '../assets/img/Torre Urbana MX/torreUrbanaMexicoPortada.png';
-import torreUrbanaGaleria1 from '../assets/img/Torre Urbana MX/torreUrbanaMXGaleria1.png';
-import torreUrbanaGaleria2 from '../assets/img/Torre Urbana MX/torreUrbanaMXGaleria2.png';
-import casaHorizonte from '../assets/img/Casa Horizonte/casaHorizonte.png';
-import casaHorizontePortada from '../assets/img/Casa Horizonte/casaHorizontePortada.jpg';
-import casaHorizonteGaleria1 from '../assets/img/Casa Horizonte/casaHorizonteGaleria1.jpg';
-import casaHorizonteGaleria2 from '../assets/img/Casa Horizonte/casaHorizonteGaleria2.jpg';
-import galeriaContemporanea from '../assets/img/Galeria Contemporanea/galeriaContemporanea.png';
-import galeriaContemporaneaPortada from '../assets/img/Galeria Contemporanea/galeriaContemporaneaPortada.jpg';
-import galeriaContemporaneaGaleria1 from '../assets/img/Galeria Contemporanea/galeriaContemporaneaGaleria1.jpg';
-import galeriaContemporaneaGaleria2 from '../assets/img/Galeria Contemporanea/galeriaContemporaneaGaleria2.jpg';
+import principal from '../assets/img/principal.webp';
+import torreUrbana from '../assets/img/Torre Urbana MX/torreUrbanaMExico.webp';
+import torreUrbanaPortada from '../assets/img/Torre Urbana MX/torreUrbanaMexicoPortada.webp';
+import torreUrbanaGaleria1 from '../assets/img/Torre Urbana MX/torreUrbanaMXGaleria1.webp';
+import torreUrbanaGaleria2 from '../assets/img/Torre Urbana MX/torreUrbanaMXGaleria2.webp';
+import casaHorizonte from '../assets/img/Casa Horizonte/casaHorizonte.webp';
+import casaHorizontePortada from '../assets/img/Casa Horizonte/casaHorizontePortada.webp';
+import casaHorizonteGaleria1 from '../assets/img/Casa Horizonte/casaHorizonteGaleria1.webp';
+import casaHorizonteGaleria2 from '../assets/img/Casa Horizonte/casaHorizonteGaleria2.webp';
+import galeriaContemporanea from '../assets/img/Galeria Contemporanea/galeriaContemporanea.webp';
+import galeriaContemporaneaPortada from '../assets/img/Galeria Contemporanea/galeriaContemporaneaPortada.webp';
+import galeriaContemporaneaGaleria1 from '../assets/img/Galeria Contemporanea/galeriaContemporaneaGaleria1.webp';
+import galeriaContemporaneaGaleria2 from '../assets/img/Galeria Contemporanea/galeriaContemporaneaGaleria2.webp';
 
 export const projects = [
   {

@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
-import heroImage from '../assets/img/principal.png';
+import heroImage from '../assets/img/principal.webp';
 
 const Hero = () => {
   return (

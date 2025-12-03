@@ -1,6 +1,6 @@
-import marianaPrieto from '../assets/img/marianaprieto.jpg';
-import julianCifuentes from '../assets/img/julianSifuentes.jpg';
-import lauraVidal from '../assets/img/lauravidal.jpg';
+import marianaPrieto from '../assets/img/marianaprieto.webp';
+import julianCifuentes from '../assets/img/julianSifuentes.webp';
+import lauraVidal from '../assets/img/lauravidal.webp';
 
 export const testimonials = [
   {

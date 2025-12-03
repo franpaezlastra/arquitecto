@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import SectionTitle from './SectionTitle';
-import interiorImage from '../assets/img/interior.png';
+import interiorImage from '../assets/img/interior.webp';
 
 const About = () => {
   return (

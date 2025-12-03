@@ -1,9 +1,9 @@
-import interiorismoImage from '../assets/img/ineriorismo.png';
-import disenoArquitectonicoImage from '../assets/img/diseñoArquitectonico.png';
-import direccionDeObraImage from '../assets/img/direccionDeObra.png';
-import modeladoImage from '../assets/img/modelad3d.png';
-import proyectosComercialesImage from '../assets/img/proyectosComerciales.png';
-import solucionesSosteniblesImage from '../assets/img/solucionesSostenibles.png';
+import interiorismoImage from '../assets/img/ineriorismo.webp';
+import disenoArquitectonicoImage from '../assets/img/disenoArquitectonico.webp';
+import direccionDeObraImage from '../assets/img/direccionDeObra.webp';
+import modeladoImage from '../assets/img/modelad3d.webp';
+import proyectosComercialesImage from '../assets/img/proyectosComerciales.webp';
+import solucionesSosteniblesImage from '../assets/img/solucionesSostenibles.webp';
 
 export const services = [
   {
